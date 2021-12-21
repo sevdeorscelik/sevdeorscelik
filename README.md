@@ -13,16 +13,8 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing]
 
-<br> 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br /> 
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 [linkedin]: https://www.linkedin.com/in/sevde-orscelik/
 [xing]: https://www.xing.com/profile/Sevde_Oerscelik/cv
