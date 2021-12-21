@@ -5,6 +5,7 @@
 🌱 I’m currently learning Fullstack Web Development
 
 <font style="color:pink"> "Auch eine Reise von tausend Meilen beginnt mit einem Schritt." </font>
+<p style="color:pink">"Auch eine Reise von tausend Meilen beginnt mit einem Schritt."</p>
 
 <br /> 
 <br />
