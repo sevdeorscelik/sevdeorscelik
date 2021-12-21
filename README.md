@@ -10,7 +10,7 @@
 <br />
 
 
-### Erreichen Sie mich 
+### Contact me
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
