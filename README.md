@@ -13,7 +13,7 @@
 ### Erreichen Sie mich 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
-<br />
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing]
 
 
