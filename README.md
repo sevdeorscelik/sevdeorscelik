@@ -6,11 +6,6 @@
 
 <font style="color:pink"> "Auch eine Reise von tausend Meilen beginnt mit einem Schritt." </font>
 
-<div style="color: red; text-align: center;">
-  "Auch eine Reise von tausend Meilen beginnt mit einem Schritt." 
-</div>
-
-
 <br /> 
 <br />
 
