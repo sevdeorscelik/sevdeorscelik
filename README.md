@@ -19,10 +19,6 @@
 <br />
 <br />
 <br />
-<!--
-
-
-
 
 [linkedin]: www.linkedin.com/in/sevde-orscelik
 [xing]: https://www.xing.com/profile/Sevde_Oerscelik/cv
