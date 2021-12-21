@@ -4,13 +4,13 @@
 
 🌱 I’m currently learning Fullstack Web Development
 
-<font color="pink"> "A Journey of a Thousand Miles Begins with a Single Step" </font>
+<font style="color:pink"> "Auch eine Reise von tausend Meilen beginnt mit einem Schritt." </font>
 
 <br /> 
 <br />
 
 
-### Contact me
+### Erreichen Sie mich
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
