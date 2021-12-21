@@ -6,19 +6,14 @@
 
 <font color="pink"> "A Journey of a Thousand Miles Begins with a Single Step" </font>
 
-### Erreichen Sie mich 
-
 <br /> 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
+
+### Erreichen Sie mich 
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<br />
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing]
 
 
