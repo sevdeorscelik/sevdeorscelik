@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="500" height="250">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="500" height="350">
 
 ### Hallo, ich bin Sevde. :blush:
 
@@ -10,7 +10,7 @@
 
 
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][www.linkedin.com/in/sevde-orscelik]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />][xing]
 
 <br />
