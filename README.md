@@ -2,7 +2,7 @@
 
 ### Hallo, ich bin Sevde 😉
 
-🌱 I'm currently learning Full Stack Web Development
+🌱 I'm currently learning Full Stack Web Developmenttttt
 
 <font style="color:pink"> "Auch eine Reise von tausend Meilen beginnt mit einem Schritt." </font>
 
