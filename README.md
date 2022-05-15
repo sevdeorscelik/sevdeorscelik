@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="right" width="500" height="350">
+<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" align="right" width="500" height="350">
 
 ### Hallo, ich bin Sevde 😉
 
