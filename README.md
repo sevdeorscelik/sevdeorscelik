@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" align="right" width="500" height="350">
+<img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" align="right" width="500" height="350">
 
 ### Hallo, ich bin Sevde 😉
 
