@@ -5,7 +5,7 @@
 
  ## Hallo, ich bin Sevde. 😉
 
-🌱 I'm currently learning Full Stack Web Development
+🌱 I'm a Full Stack Web Developer in Germany
 
 ---
 
