@@ -6,7 +6,7 @@
 .
 .
 
- ## Hallo, ich bin Sevde 😉
+ ## Hallo, ich bin Sevde. 😉
 
 🌱 I'm a Full Stack Web Developer in Germany
 
